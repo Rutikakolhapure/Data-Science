@@ -1,0 +1,6 @@
+counts = assign1['Company Location'].value_counts()
+print(counts)
+
+# Identify the country with max company locations
+max_country = counts.idxmax()
+max_count = counts.max()
