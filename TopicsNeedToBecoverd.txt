@@ -1,0 +1,6 @@
+In NLP:
+1. Cosine similarity
+2. Class imbalance
+
+In Deep learning:
+TensorFlow
