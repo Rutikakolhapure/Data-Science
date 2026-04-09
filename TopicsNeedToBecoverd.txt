@@ -1,6 +1,7 @@
 In NLP:
 1. Cosine similarity
 2. Class imbalance
+3.WordToVec(NLP)
 
 In Deep learning:
 TensorFlow
